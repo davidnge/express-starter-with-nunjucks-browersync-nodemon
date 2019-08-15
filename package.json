@@ -1,0 +1,35 @@
+{
+  "name": "express-starter-nunjucks-browsersync-nodemon",
+  "version": "1.0.0",
+  "description": "Express starter template with nunjucks, integrated with nodemon and browsersync so you don't have to refresh browser while developing.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davidnge/express-starter-with-nunjucks-browsersync-nodemon.git"
+  },
+  "keywords": [
+    "nunjucks",
+    "express",
+    "nodemon",
+    "browsersync",
+    "gulp"
+  ],
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "browser-sync": "^2.26.7",
+    "express": "^4.17.1",
+    "gulp": "^4.0.2",
+    "gulp-nodemon": "^2.4.2",
+    "nodemon": "^1.19.1",
+    "nunjucks": "^3.2.0"
+  },
+  "author": "David Nge (https://twitter.com/david_nge)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/davidnge/express-starter-with-nunjucks-browsersync-nodemon/issues"
+  },
+  "homepage": "https://github.com/davidnge/express-starter-with-nunjucks-browsersync-nodemon#readme"
+}
